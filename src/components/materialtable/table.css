@@ -1,0 +1,10 @@
+.table1{
+    width:100%;
+}
+.table{
+    width:100%;
+    margin-bottom: -4px;
+  overflow-x:scroll;
+  overflow-y:scroll;
+  display:block;
+}

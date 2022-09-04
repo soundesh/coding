@@ -1,0 +1,8 @@
+.dashboard {
+  padding: 10px;
+  border-radius: 5px;
+  height: 100%;
+  margin-right: -1px;
+  margin-left: -1px;
+  overflow: auto;
+}
